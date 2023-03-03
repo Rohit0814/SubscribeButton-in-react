@@ -1,0 +1,25 @@
+.NotSubClass h1{
+    color:red;
+}
+.NotSubClass button{
+    font-size: 15px;
+    color: white;
+    padding: 7px;
+    font-weight: bolder;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: red;
+}
+
+.SubClass h1{
+    color:  green;
+}
+.SubClass button{
+    font-size: 15px;
+    color: white;
+    padding: 7px;
+    font-weight: bolder;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: green;
+}
