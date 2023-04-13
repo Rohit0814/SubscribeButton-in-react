@@ -1,3 +1,5 @@
+Our React Subscribe Button component simplifies the process of adding subscription functionality to your web application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
